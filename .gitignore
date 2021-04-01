@@ -1,0 +1,9 @@
+.vscode
+Report
+Figures
+**.pdf
+Assignment 1
+__pycache__
+.DS_Store
+**.pyc
+**.zip
